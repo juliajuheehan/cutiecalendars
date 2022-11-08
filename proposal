@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Cutie Calendars
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+Aesthetic Digital Student Calendars. A website that takes an input file of listed assignments, classes, schedules, etc. and converts it into a visually aesthetic calendar that student can use to stay on a timeline.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+A code that can read csv files that students can put their class schedules and assignments that import into a google calendar or exchange calendar. It would have the capabilities to give notifications to students about deadlines and priorities. Having an isolated location for all that information to also create a class schedule with time and locations for daily schedules. Being given more than syllabus makes it harder to keep track of when things are due if professors are unable alert you of deadlines.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+NA
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+NA
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome for my final project would be that the code is able to convert the csv files of student class schedules, assignments, and deadlines into a semester calendar to display it all in a localized format to bring clarity to students who may suffer from adhd or struggle to keep track of their assignments.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome would be to be able to link the code to an existing calendar like google or exchange to display it on multiple devices.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome would be if the calendar that the schedule the csv file is uploaded into can give reminders or alerts through either google or exchange to bring the deadline to attention.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I will need to use the foundation of reading files into python to be used as data that can be converted into being displayed on a website. I will need to create a website that is visually and aethetically pleasing. I want to be able to make this an updatable type of calendar because no one's schedule is definite. I will research google APIs and similarly that of exchange to see if i can connect the files to upload into their processes. I will research how to connect it to mobile notifications if possible to give students alerts on deadlines.
